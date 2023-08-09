@@ -1,0 +1,129 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "notificationText": "You have a new message.",
+            "isRead": true
+        },
+        {
+            "id": "2",
+            "notificationText": "Reminder: Meeting at 3 PM.",
+            "isRead": false
+        },
+        {
+            "id": "3",
+            "notificationText": "Weather update: Sunny and warm.",
+            "isRead": true
+        },
+        {
+            "id": "4",
+            "notificationText": "Important: Action required.",
+            "isRead": false
+        },
+        {
+            "id": "5",
+            "notificationText": "Your package has been delivered.",
+            "isRead": true
+        },
+        {
+            "id": "6",
+            "notificationText": "Upcoming event: Annual party!",
+            "isRead": false
+        },
+        {
+            "id": "7",
+            "notificationText": "New article published: Check it out.",
+            "isRead": true
+        },
+        {
+            "id": "8",
+            "notificationText": "Payment received for your order.",
+            "isRead": true
+        },
+        {
+            "id": "9",
+            "notificationText": "Emergency alert: Stay indoors.",
+            "isRead": false
+        },
+        {
+            "id": "10",
+            "notificationText": "Congratulations! You've won a prize.",
+            "isRead": false
+        },
+        {
+            "id": "11",
+            "notificationText": "Account update: Password reset.",
+            "isRead": true
+        },
+        {
+            "id": "12",
+            "notificationText": "Vacation photos uploaded.",
+            "isRead": false
+        },
+        {
+            "id": "13",
+            "notificationText": "New follower: Say hello!",
+            "isRead": false
+        },
+        {
+            "id": "14",
+            "notificationText": "Product back in stock.",
+            "isRead": true
+        },
+        {
+            "id": "15",
+            "notificationText": "Unread message from a friend.",
+            "isRead": false
+        },
+        {
+            "id": "16",
+            "notificationText": "Reminder: Pay your bills.",
+            "isRead": true
+        },
+        {
+            "id": "17",
+            "notificationText": "Job opportunity: Apply now!",
+            "isRead": false
+        },
+        {
+            "id": "18",
+            "notificationText": "Server maintenance scheduled.",
+            "isRead": true
+        },
+        {
+            "id": "19",
+            "notificationText": "New course available online.",
+            "isRead": true
+        },
+        {
+            "id": "20",
+            "notificationText": "Community meetup tomorrow.",
+            "isRead": false
+        },
+        {
+            "id": "21",
+            "notificationText": "Software update ready to install.",
+            "isRead": true
+        },
+        {
+            "id": "22",
+            "notificationText": "Traffic advisory for your route.",
+            "isRead": false
+        },
+        {
+            "id": "23",
+            "notificationText": "Happy birthday from the team!",
+            "isRead": true
+        },
+        {
+            "id": "24",
+            "notificationText": "Survey: Share your feedback.",
+            "isRead": false
+        },
+        {
+            "id": "25",
+            "notificationText": "New podcast episode available.",
+            "isRead": true
+        }
+    ]
+}
